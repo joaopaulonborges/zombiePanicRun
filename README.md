@@ -1,3 +1,3 @@
 # zombiePanicRun
 
-A game made in libGDX.
+Um jogo feito com libGDX.
